@@ -14,8 +14,9 @@ Realizar uma análise detalhada sobre a ocorrência de encalhes de fauna no lito
 * `requirements.txt`: Lista de bibliotecas Python necessárias para rodar o projeto.
 
 ## Ferramentas Utilizadas
-* **Linguagem:** Python 3.12
-* **Bibliotecas Principais:** * `Pandas` (Manipulação de dados)
-    * `GeoPandas` (Análise espacial/GIS)
-    * `Matplotlib` e `Seaborn` (Visualização de dados)
-    * `NumPy` (Cálculos matemáticos)
+* **Linguagem:** Python 3.10+
+* **Bibliotecas Principais:**
+    * `Pandas`: Manipulação e análise de dados.
+    * `GeoPandas`: Processamento de dados geográficos (análise espacial).
+    * `Matplotlib` e `Seaborn`: Criação de gráficos e visualizações estatísticas.
+    * `NumPy`: Operações matemáticas e vetoriais.
