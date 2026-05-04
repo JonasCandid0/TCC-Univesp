@@ -65,14 +65,6 @@ Cruzamento das tabelas de Ocorrências com Biometrias pelas chaves `Identificado
 
 ---
 
-## Como executar
-
-1. Abra o notebook `tcc_analise_espacial_simba.ipynb` no Google Colab
-2. Monte o Google Drive e aponte os caminhos dos CSVs do SIMBA
-3. Execute as células em ordem — cada fase depende da anterior
-
----
-
 ## Autores
 
 Edson Mokiu Yabiku, Érica Catarino Marins, Gabriel Catarino Marins, Guilherme Almeida Ramos, Jonas Cândido Pereira, Marcelo Massayuki Hiray, Pedro Henrique Lapinha Flaminio
