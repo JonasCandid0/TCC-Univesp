@@ -67,7 +67,7 @@ Cruzamento das tabelas de Ocorrências com Biometrias pelas chaves `Identificado
 
 ## Autores
 
-Edson Mokiu Yabiku, Érica Catarino Marins, Gabriel Catarino Marins, Guilherme Almeida Ramos, Jonas Cândido Pereira, Marcelo Massayuki Hiray, Pedro Henrique Lapinha Flaminio
+Érica Catarino Marins, Gabriel Catarino Marins, Guilherme Almeida Ramos, Jonas Cândido Pereira
 
 **Orientador:** Prof. Anderson Nogueira Cotrim  
 **Instituição:** UNIVESP — Universidade Virtual do Estado de São Paulo  
